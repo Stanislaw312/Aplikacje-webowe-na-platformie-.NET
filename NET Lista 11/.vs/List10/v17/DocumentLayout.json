@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baton\\Documents\\NET Lista 11\\.NET Lista 11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Shop\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Models\\Article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\ArticlesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Models\\ModelBuilderExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Models\\ShopDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\ShopController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Migrations\\20250112234917_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\List10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Delete.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Shop\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T14:48:38.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Create.cshtml",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T19:36:08.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Models\\Article.cs",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Models\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:15:23.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAmwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T23:21:40.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Models\\Category.cs",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:23:35.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T23:09:49.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T23:10:58.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T23:12:37.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T23:19:17.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T23:13:40.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\ArticlesController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAqwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:24:53.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModelBuilderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Models\\ModelBuilderExtension.cs",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Models\\ModelBuilderExtension.cs",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Models\\ModelBuilderExtension.cs",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Models\\ModelBuilderExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:17:05.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T23:20:03.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Models\\ShopDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Models\\ShopDbContext.cs",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Models\\ShopDbContext.cs",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Models\\ShopDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:56:56.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:32:57.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Delete.cshtml",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Delete.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T20:50:40.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T23:05:22.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:22:49.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\appsettings.json",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\appsettings.json",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAIAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T22:33:54.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Program.cs",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Program.cs",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:50:47.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-11T19:38:27.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250112234917_Init.cs",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Migrations\\20250112234917_Init.cs",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Migrations\\20250112234917_Init.cs",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Migrations\\20250112234917_Init.cs",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Migrations\\20250112234917_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:49:18.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T08:31:58.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAACBjwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T08:32:01.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Edit.cshtml",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Edit.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T21:47:48.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Details.cshtml",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Articles\\Details.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T08:24:56.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "List10.csproj",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\List10.csproj",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\List10.csproj",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\List10.csproj",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\List10.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T22:23:10.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\baton\\Documents\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "..\\..\\NET Lista 10\\.NET Lista 10\\List10\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T23:10:46.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

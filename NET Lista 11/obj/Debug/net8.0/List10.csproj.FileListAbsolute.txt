@@ -1,0 +1,8 @@
+C:\Users\baton\OneDrive\Dokumenty\.NET Lista 10\obj\Debug\net8.0\List10.csproj.AssemblyReference.cache
+C:\Users\baton\OneDrive\Dokumenty\.NET Lista 10\obj\Debug\net8.0\List10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baton\OneDrive\Dokumenty\.NET Lista 10\obj\Debug\net8.0\List10.AssemblyInfoInputs.cache
+C:\Users\baton\OneDrive\Dokumenty\.NET Lista 10\obj\Debug\net8.0\List10.AssemblyInfo.cs
+C:\Users\baton\OneDrive\Dokumenty\.NET Lista 10\obj\Debug\net8.0\List10.csproj.CoreCompileInputs.cache
+C:\Users\baton\OneDrive\Dokumenty\.NET Lista 10\obj\Debug\net8.0\List10.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\baton\OneDrive\Dokumenty\.NET Lista 10\obj\Debug\net8.0\List10.RazorAssemblyInfo.cache
+C:\Users\baton\OneDrive\Dokumenty\.NET Lista 10\obj\Debug\net8.0\List10.RazorAssemblyInfo.cs
